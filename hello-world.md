@@ -1,6 +1,6 @@
 # Hello everyone out there in internet land!
 
-##types of minerals
+## types of minerals
 * amythest
 * ruby
 * emerald
