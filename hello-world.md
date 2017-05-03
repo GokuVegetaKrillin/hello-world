@@ -6,3 +6,6 @@
 * emerald
 * calcite
 * quartz
+* jasper
+* diamond
+* topaz
